@@ -1,0 +1,4 @@
+fake-useragent==0.1.11
+selenium==3.141.0
+tqdm==4.61.0
+urllib3==1.26.4
