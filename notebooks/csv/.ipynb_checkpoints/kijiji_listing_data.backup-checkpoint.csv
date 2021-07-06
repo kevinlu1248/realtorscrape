@@ -1,0 +1,30 @@
+,cost,address,unitType,bedrooms,bathrooms,hydro,heat,water,wifi_info,parking,agreement,pet,size,furnished,appliances,ac,outdoor,smoking,amenities
+0,933,"22-41 Munroe Pl., Regina, SK, S4S 6A7",Apartment,2,1.0,0,1,1,Cable / TV,1,1 Year,1,860,0,"Laundry (In Building),Fridge / Freezer",1,Balcony,1,"24 Hour Security,Storage Space"
+0,850,"2175  Rae Street, Regina, SK, S4T 2E8",Apartment,Bachelor/Studio,1.0,0,1,1,Not Included,0,1 Year,1,380,0,"Laundry (In Building),Fridge / Freezer",1,Not Included,0,Not Included
+0,799,"1424 Victoria Ave, Regina, SK, S4P 0P3",Apartment,1,1.0,0,1,1,Not Included,0,1 Year,1,520,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,814,"3864 Rae Street, Regina, SK, S4S 3A1",Apartment,1,1.0,0,1,1,Not Included,0,1 Year,1,675,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,1030,"2240 Robinson Street, Regina, SK, S4T 2P9",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,870,0,"Laundry (In Building),Fridge / Freezer",1,Not Included,0,Not Included
+0,1495,"S4X, Canada",Apartment,1,1.0,1,1,1,Cable / TV,1,Month-to-month,0,625,1,"Laundry (In Unit),Fridge / Freezer",1,"Yard,Balcony",0,24 Hour Security
+0,1199,"#109  5301 Universal Crescent, S4W0L2, Regina, SK",Condo,1 + Den,1.0,0,1,1,Not Included,1,1 Year,0,786,0,"Laundry (In Unit),Dishwasher,Fridge / Freezer",1,Balcony,0,"Gym,Storage Space,Elevator in Building"
+0,-1,"5300 Parliament Ave, Regina, SK, S4W 0R5",Apartment,2,2.0,0,0,1,Not Included,1,1 Year,1,-1,0,"Laundry (In Unit),Dishwasher,Fridge / Freezer",1,Balcony,0,"Gym,Elevator in Building"
+0,1460,"5500 Parliament Avenue, Regina, SK, S4W 0T3",Apartment,2,2.0,0,1,1,Not Included,0,1 Year,1,997,0,Fridge / Freezer,1,Balcony,0,"Gym,Elevator in Building"
+0,1380,"5920 Little Pine Loop, Regina, SK, S4X 0L4",Apartment,2,2.0,0,1,1,Not Included,0,1 Year,1,-1,0,Dishwasher,0,Balcony,0,Elevator in Building
+0,1335,"5920 Little Pine Loop, Regina, SK, S4X 0L4",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,-1,0,Dishwasher,0,Balcony,0,Elevator in Building
+0,799,"1424 Victoria Ave, Regina, SK, S4P 0P3",Apartment,1,1.0,0,1,1,Not Included,0,1 Year,1,520,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,849,"3525 Avonhurst Dr, Regina, SK, S4R 3K2",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,763,0,"Laundry (In Building),Fridge / Freezer",0,Yard,0,Not Included
+0,999,"2835 Parliament Ave, Regina, SK, S4S 2L1",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,910,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,799,"3940 Retallack Street, Regina, SK, S4S 3B9",Apartment,1,1.0,0,1,1,Not Included,0,1 Year,1,675,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,1074,"4100 Retallack Street, Regina, SK, S4S 3C3",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,720,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,1355,"3301 Green Poppy Street, Winnipeg, MB, S4V3P6",Apartment,2,1.0,0,0,0,Not Included,Not Available,Not Available,0,677,0,Not Included,0,Not Included,0,Not Included
+0,1135,"3301 Green Poppy Street, Winnipeg, MB, S4V3P6",Apartment,1,1.0,0,0,0,Not Included,Not Available,Not Available,0,541,0,Not Included,0,Not Included,0,Not Included
+0,855,"10 Schemmer Bay, Regina, SK S4R 7Z4, Canada",Apartment,1 + Den,1.0,1,1,1,Not Included,1,Month-to-month,0,1,0,"Laundry (In Building),Fridge / Freezer",1,Balcony,1,"24 Hour Security,Elevator in Building"
+0,800,"2353 Ottawa St, Regina, SK S4P 1R2, Canada",Apartment,1,1.0,0,1,1,Not Included,2,1 Year,0,700,0,"Laundry (In Building),Fridge / Freezer",0,Not Included,0,Not Included
+0,1475,"1942 Elphinstone St., S4T 3N2, Regina, SK",House,2,1.0,0,0,0,Not Included,2,1 Year,0,1000,0,"Laundry (In Unit),Dishwasher,Fridge / Freezer",0,Yard,0,Not Included
+0,800,"144 1st Ave north, S3N 1J8, Yorkton, SK",Apartment,1,1.0,0,1,1,Not Included,1,Month-to-month,0,900,0,"Laundry (In Building),Fridge / Freezer",0,Not Included,0,Not Included
+0,1279,"193 Lockwood Rd., Regina, SK, S4S 6G9",Apartment,1,1.0,1,1,1,Cable / TV,0,1 Year,1,705,0,"Laundry (In Building),Fridge / Freezer",1,Balcony,1,24 Hour Security
+0,849,"3 Kleisinger Crescent, Regina, SK, S4R 6Z4",Apartment,1,1.0,0,1,1,Not Included,0,1 Year,1,-1,0,"Dishwasher,Fridge / Freezer",0,Not Included,0,Not Included
+0,695,"2025 Rose Street, Regina, SK, S4P 2A3",Apartment,Bachelor/Studio,1.0,0,1,1,Not Included,0,1 Year,1,-1,0,"Laundry (In Building),Fridge / Freezer",0,Not Included,1,Not Included
+0,754,"4039 Retallack Street, Regina, SK, S4S 3C2",Apartment,Bachelor/Studio,1.0,0,1,1,Not Included,0,1 Year,1,480,0,Fridge / Freezer,0,Not Included,0,Not Included
+0,850,", Regina S4t3s2 SK, Canada",House,2,1.0,0,0,0,Not Included,0,1 Year,0,900,0,Fridge / Freezer,0,Yard,0,Not Included
+0,1180,"10 Michener Drive, Regina, SK, S4V 1R2",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,975,0,"Laundry (In Unit),Dishwasher,Fridge / Freezer",1,Balcony,0,Gym
+0,1085,"6725 Rochdale Blvd, Regina, SK, S4X 2Z2",Apartment,2,1.0,0,1,1,Not Included,0,1 Year,1,798,0,"Laundry (In Unit),Dishwasher,Fridge / Freezer",1,Not Included,0,Gym

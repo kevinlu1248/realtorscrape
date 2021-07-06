@@ -146,9 +146,10 @@ if new_urls:
 else:
     print("--- No new listings found! ---")
 
-with open("realtorurls.txt", "w") as f:
-    for url in url_lst.union(old_urls):
-        f.write(url + '\n')
+with open("realtorurls.txt", "a") as f:
+    f.write("\n")
+    for new_url in new_urls:
+        f.write(new_url + '\n')
     
 browser.quit()
 print("Done!")
