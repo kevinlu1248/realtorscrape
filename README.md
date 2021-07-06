@@ -7,3 +7,6 @@ Of the data I had, I first visualized the data with histograms and pie charts us
 After, I one-hot encoded all categorical data and proceeded with using a random forest regressor model to predict the rent price with over 30 features. After adjusting some of the data and hyperparameter tuning using SKLearn on Jupyter notebooks, I attained a mean accuracy of 90%!
 
 In the future, I may try logistical regressive algorithms and collect more data from other sites such as rentfaster.ca to improve my model. 
+
+## Credits:
+Based on the tutorial at https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc.
